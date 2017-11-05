@@ -1,4 +1,4 @@
-# dfa-plotter
+# automata-plotter
 This project formats a finite automata represented as a edge list for display with Graphviz. 
 It will work with deterministic and nondeterministic finite automata.
 
